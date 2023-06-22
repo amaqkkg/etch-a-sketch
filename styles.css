@@ -1,0 +1,16 @@
+#canvas {
+  display: flex;
+  flex-direction: column;
+  width: 960px;
+  height: 960px;
+}
+
+.row {
+  display: flex;
+}
+
+.grid {
+  border: 1px solid black;
+  height: 10px;
+  flex-basis: 10px;
+}
